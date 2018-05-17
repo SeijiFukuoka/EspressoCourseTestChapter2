@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/seiji/Documentos/AndroidStudioProjects/EspressoCourseTestChapter2/Start/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/seiji/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/780d84043bab9e7491a8e16d54f4e210/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
