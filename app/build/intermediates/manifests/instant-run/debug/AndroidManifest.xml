@@ -9,6 +9,7 @@
         android:targetSdkVersion="27" />
 
     <application
+        android:name="com.sqisland.android.espresso.hermetic.GreetingApplication"
         android:allowBackup="false"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
